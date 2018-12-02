@@ -58,4 +58,6 @@
   - Выводит на экран полученную информацию
   
 ## Результаты работы
-* 
+* ![image](https://user-images.githubusercontent.com/32273263/49342308-a5947d00-f662-11e8-8ec8-48da9da89223.png)
+* ![image](https://user-images.githubusercontent.com/32273263/49342316-b9d87a00-f662-11e8-8bf8-2cf4b9c2596c.png)
+* ![image](https://user-images.githubusercontent.com/32273263/49342322-ce1c7700-f662-11e8-88ad-24e8fa02d07b.png)
