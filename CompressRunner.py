@@ -32,6 +32,8 @@ def decompress_files(compressed_files):
     print()
 
 if __name__ == "__main__":
+    subprocess.call(["py", "clear.py"])
+	
     input_files = load_files(INPUT_PATH)
     compress_files(input_files)
 

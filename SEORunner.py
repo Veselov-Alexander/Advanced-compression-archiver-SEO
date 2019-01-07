@@ -12,6 +12,7 @@ def load_files(input_path):
     return input_files
 
 if __name__ == "__main__":
+    subprocess.call(["py", "clear.py"])
     input_files = load_files(INPUT_PATH)
     for file in input_files:
         subprocess.call(["py", "Source/seoanalysis.py", file])
